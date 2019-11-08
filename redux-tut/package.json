@@ -1,0 +1,11 @@
+{
+  "name": "redux-tut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JO",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "redux-starter-kit": "^0.7.0"
+  }
+}
